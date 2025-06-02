@@ -1,4 +1,4 @@
-# Ru-hard-detection-dataset
+# Ru-hard-detection-dataset [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/CoffeBank/Ru-hard-detection-dataset)
 
 Датасет для оценки детекции сгенерированных текстов на русском языке, включающий тексты разных жанров и стилевых вариантов.
 
