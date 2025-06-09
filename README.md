@@ -49,3 +49,12 @@ Generation was performed from short summaries of the originals using the followi
 `gemini-2.0-flash`, `chatgpt-4o-mini`, `chatgpt-o1-mini`, `deepseek-chat` and `deepseek-reasoner`.
 Paraphrases were created with the same models in two modes – `LP` (light) and `DP` (deep).
 Original texts were collected from **Lenta.ru** news articles, the **Corus Essays** corpus, a Russian summarization dataset and a collection of Russian scientific articles.
+
+## Example Usage
+
+The script `examples/load_dataset_example.py` iterates over all JSON files in the
+`main` directory and prints one full record from each. Run it with Python:
+
+```bash
+python examples/load_dataset_example.py
+```
