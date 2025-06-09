@@ -10,7 +10,7 @@
   - **essay** – эссе
   - **scientific_texts** – научные статьи
 
-- **long sc** – дополнительные тексты научных исследований
+- **long_sc** – дополнительные тексты научных исследований
 
 Каждый JSON-файл представляет собой список записей со следующими полями:
 
@@ -37,7 +37,7 @@
 | `main/scientific_texts` | `orig_scientific.json` | 479 |
 | | `generated_scientific.json` | 479 |
 | | `paraphrased_scientific.json` | 479 |
-| `long sc` | `rus_scientific_articles_part1.json` | 1239 |
+| `long_sc` | `rus_scientific_articles_part1.json` | 1239 |
 | | `rus_scientific_articles_part2.json` | 1239 |
 | | `generated_articles.json` | 1449 |
 | | `paraphrased_generated_articles.json` | 1625 |

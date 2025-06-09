@@ -10,7 +10,7 @@ The root directory contains two main directories:
   - **essay** – essays
   - **scientific_texts** – scientific articles
 
-- **long sc** – additional scientific research texts
+- **long_sc** – additional scientific research texts
 
 Each JSON file is a list of records with the following fields:
 
@@ -37,7 +37,7 @@ Each of these folders contains three files:
 | `main/scientific_texts` | `orig_scientific.json` | 479 |
 | | `generated_scientific.json` | 479 |
 | | `paraphrased_scientific.json` | 479 |
-| `long sc` | `rus_scientific_articles_part1.json` | 1239 |
+| `long_sc` | `rus_scientific_articles_part1.json` | 1239 |
 | | `rus_scientific_articles_part2.json` | 1239 |
 | | `generated_articles.json` | 1449 |
 | | `paraphrased_generated_articles.json` | 1625 |
