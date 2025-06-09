@@ -49,3 +49,11 @@
 `gemini-2.0-flash`, `chatgpt-4o-mini`, `chatgpt-o1-mini`, `deepseek-chat` и `deepseek-reasoner`.
 Перефразирование выполнялось этими же моделями в двух режимах – `LP` (слабое) и `DP` (глубокое).
 Оригинальные материалы собраны из новостей **Lenta.ru**, корпуса **Corus Essays**, датасета русских суммаризаций и подборки научных статей.
+
+## Пример использования
+
+Скрипт `examples/load_dataset_example.py` последовательно читает все JSON-файлы из папки `main` и выводит по одной записи из каждого. Запустите его:
+
+```bash
+python examples/load_dataset_example.py
+```
